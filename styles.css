@@ -12,7 +12,7 @@
     background-color: #22223b;
     background-position: center;
     background-repeat: no-repeat;
-    background-position: 950px;
+    background-position: 800px;
 }
 
 nav {
@@ -23,11 +23,6 @@ nav {
     padding-right: 30px;
     padding-top: 25px;
     margin-right: 9%;
-}
-
-.foto-logo {
-    margin-left: 850px;
-    margin-top: 75px;
 }
 
 .portifolio {
@@ -47,12 +42,10 @@ li {
     font-size: 25px;
     margin-right: 40px;
     cursor: pointer;
-    border-radius: 30px;
-    height: 25px;
 }
 
 li:hover {
-    background-color: #5bba6f;
+    color: #5bba6f;
     transition: 0.5s;
 }
 
@@ -82,7 +75,7 @@ h1 span {
 }
 
 section img {
-    height: 400px;
+    height: 300px;
     border-radius: 100%;
     border: 2px solid #5bba6f;
     margin-right: 30px;
@@ -101,7 +94,7 @@ section div h2 {
 }
 
 section div p {
-    color: #e2b9c6;
+    color: #ffffff;
     font-size: 25px;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -153,12 +146,15 @@ section div button:hover {
 .card h5 {
     color: white;
     font-size: 24px;
+    margin-top: 5px;
 }
 
 .card p {
-    color: #e2b9c6;
+    color: #ffffff;
     margin-top: 20px;
     margin-bottom: 40px;
+    text-align: justify;
+    margin-left: 40px;
 }
 
 .card a {
