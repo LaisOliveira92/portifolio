@@ -329,6 +329,14 @@ html {
         width: 315px;
         margin-top: 40px;
     }
+
+    .card p {
+        color: #ffffff;
+        margin-top: 20px;
+        margin-bottom: 40px;
+        text-align: justify;
+        margin-left: 60px; 
+    }
     
     .card img {
         height: 70px;
